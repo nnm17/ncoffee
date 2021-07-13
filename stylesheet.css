@@ -67,22 +67,22 @@ header{
   animation: bgAnime 25s infinite;
 }
 .src1{
-  background-image: url(img/coffee3.jpg);
+  background-image: url(coffee3.jpg);
 }
 .src2{
-  background-image: url(img/espresso.jpg);
+  background-image: url(espresso.jpg);
   animation-delay: 5s;
 }
 .src3{
-  background-image: url(img/latte.jpg);
+  background-image: url(latte.jpg);
   animation-delay: 10s;
 }
 .src4{
-  background-image: url(img/cafe.jpg);
+  background-image: url(cafe.jpg);
   animation-delay: 15s;
 }
 .src5{
-  background-image: url(img/cafe3.jpg);
+  background-image: url(cafe3.jpg);
   animation-delay: 20s;
 }
 @keyframes bgAnime{
@@ -105,7 +105,7 @@ header{
 }
 
 .menu-wrapper{
-  background: url(img/coffee.png);
+  background: url(coffee.png);
   background-size: cover;
   color: #fff;
 }
@@ -128,7 +128,7 @@ h2{
   float: right;
 }
 .shop-wrapper{
-  background-image: url(img/cafe2.jpg);
+  background-image: url(cafe2.jpg);
   background-size: cover;
   height: 900px;
 }
@@ -170,7 +170,7 @@ h3{
   opacity: 0.6;
 }
 .online-wrapper{
-  background-image: url(img/beans.jpg);
+  background-image: url(beans.jpg);
   height: 900px;
   background-size: cover;
 }
