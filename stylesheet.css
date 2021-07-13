@@ -37,7 +37,7 @@ header{
   float: right;
 }
 .header-list a{
-  margin: 20px 15px;
+  margin: 20px 10px;
   padding: 0 20px;
   display: inline-block;
   cursor: pointer;
@@ -155,17 +155,18 @@ h3{
 
 }
 .shop-list{
-  font-size: 30px;
   padding-top: 50px;
 }
-.fa{
+.fab{
+  font-size: 35px;
+  background-color: #fff;
   margin:10px;
   border-radius: 50px;
   cursor: pointer;
-  background-color: rgba(42, 83, 218, 0.9);
+  color: rgba(42, 83, 218, 0.9);
   padding: 10px;
 }
-.fa:hover{
+.fab:hover{
   transition:all 0.5s;
   opacity: 0.6;
 }
